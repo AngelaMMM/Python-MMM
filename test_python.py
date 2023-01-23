@@ -1,8 +1,8 @@
-someNumber = 10
+somenumber = 10
 
-if(someNumber <= 0):
+if(somenumber >= 0):
     print("Over zerro")
-elif(someNumber < 0):
+elif(somenumber < 0):
     print("Bellow zerro")
 else:
     print("zerro")
